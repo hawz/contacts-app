@@ -1,0 +1,34 @@
+{
+  "name": "contacts",
+  "authors": [
+    "Alberto Masia <alberto.masia@gmail.com>"
+  ],
+  "description": "dependencies required by the simple contacts app written in AngularJS",
+  "main": "scr/main.js",
+  "license": "MIT",
+  "homepage": "hawz.github.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.11",
+    "angular-animate": "1.4.11",
+    "angular-auto-validate": "~1.18.6",
+    "angular-ladda": "~0.2.2",
+    "angular-ui-router": "ui-router#^1.0.20",
+    "angular-strap": "~2.2.4",
+    "angular-spinner": "~0.6.1",
+    "bootstrap": "~3.3.2",
+    "bootstrap-additions": "~0.3.1",
+    "font-awesome": "~4.3.0",
+    "angularjs-toaster": "~0.4.14",
+    "angular-resource": "1.4.11",
+    "ngInfiniteScroll": "~1.2.1",
+    "ui-router": "~0.2.15"
+  }
+}
