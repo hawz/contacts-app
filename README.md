@@ -8,7 +8,10 @@ It's a single `main.js` file, I know it could be structured way better, it's not
 - Services
 - Factories and ngResource to map RESTful resources
 - custom Directives with isolated `$scope`
+- Filters
 - Third party libraries customized inside `app.config` blocks
+
+Also, *Bootstrap* and *angular-strap* libraries are used, together with a custom theme.
 
 ## What's inside
 - bower.json - project dependencies (I know it's the 21st century, it's an old AngularJS sample project, c'mon :))
