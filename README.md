@@ -1,7 +1,7 @@
 # Simple AngularJS Contacts app
 
 ## Simple SPA
-It's a single `main.js` file, I know it could be structured way better, it's not a complex project, but just simple thing to show how to use basically all the features provided by AngularJS
+It's a single `main.js` file, I know it could be structured way better, it's not a complex project, just a simple thing to show how to use all the features provided by AngularJS
 
 - Controllers
 - Routing using `ui.router`
